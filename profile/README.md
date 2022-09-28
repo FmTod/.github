@@ -1,9 +1,9 @@
 Before you start, please make sure to go over the guidelines and docs below
 
 # Guidelines
-[General](GUIDELINES/GENERAL.md)
-[PHP](GUIDELINES/PHP.md)
-[Javascript](GUIDELINES/JAVASCRIPT.md)
+* [General](GUIDELINES/GENERAL.md)
+* [PHP](GUIDELINES/PHP.md)
+* [Javascript](GUIDELINES/JAVASCRIPT.md)
 
 # Commonly Used
 * [Laravel](https://laravel.com/)
