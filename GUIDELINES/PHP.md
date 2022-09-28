@@ -1,8 +1,6 @@
-## About Laravel
+# PHP
 
-First and foremost, Laravel provides the most value when you write things the way Laravel intended you to write. If there's a documented way to achieve something, follow it. Whenever you do something differently, make sure you have a justification for *why* you didn't follow the defaults.
-
-## General PHP Rules
+## General
 
 Code style must follow [PSR-1](http://www.php-fig.org/psr/psr-1/), [PSR-2](http://www.php-fig.org/psr/psr-2/) and [PSR-12](https://www.php-fig.org/psr/psr-12/). Generally speaking, everything string-like that's not public-facing should use camelCase. Detailed examples on these are spread throughout the guide in their relevant sections.
 
@@ -505,6 +503,10 @@ return [
 ]
 ```
 
+# Laravel
+
+First and foremost, Laravel provides the most value when you write things the way Laravel intended you to write. If there's a documented way to achieve something, follow it. Whenever you do something differently, make sure you have a justification for *why* you didn't follow the defaults.
+
 ## Artisan commands
 
 The names given to artisan commands should all be kebab-cased.
@@ -761,6 +763,10 @@ class OpenSourceController
     }
 }
 ```
+
+## Migrations
+
+Index columns commonly used in queries
 
 ## Validation
 
