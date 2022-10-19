@@ -22,6 +22,20 @@ public ?string $variable;
 public string | null $variable;
 ```
 
+### Class name constants
+
+Whenever possible use class name constants over class strings. It helps with code quality, readability and maintainability.
+
+```php
+use Kitchen\Food\Sandwich;
+
+// Good
+make(Sandwich:class);
+
+// Bad
+make('Kitchen\Food\Sandwich')
+```
+
 ### Void return types
 
 If a method returns nothing, it should be indicated with `void`.
