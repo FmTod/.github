@@ -745,6 +745,10 @@ $users = User::with('profile')->get();
 @endforeach
 ```
 
+### Request data
+All request data must be validated either manually or using the validator
+
+
 ### Mass assignment
 ```php
 // Good
