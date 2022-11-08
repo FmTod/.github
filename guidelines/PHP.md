@@ -188,6 +188,27 @@ $greeting = "Hi, I am {$name}.";
 $greeting = 'Hi, I am ' . $name . '.';
 ```
 
+## Comparisons
+
+When possible prefer strict comparisons `===` above comparisons with type juggling.
+
+```php
+$a = 1;
+$b = 1;
+$c = 3;
+$d = '1';
+
+// Good
+$a === $b;
+$a !== $c;
+$a !== $d;
+$a === (int) $d;
+
+// Bad
+$a == $b;
+$a != $c;
+$a == $d;
+```
 
 ## Ternary operators
 
