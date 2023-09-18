@@ -8,7 +8,7 @@ This low-priority project serves as an assessment phase before potentially engag
 
 ### Pre-Engagement
 
-- Project Estimate: Review the project guidelines and provide a time estimate for completion.
+- Project Estimate: You are responsible for setting the project deadline based on your own time estimate for completion, including test and QA phases.
 - Clarifying Questions: Prepare a list of questions about any unclear aspects of the project guidelines.
 - Skill Assessment: Clearly identify areas of expertise and areas where you might struggle.
 
@@ -47,7 +47,8 @@ This low-priority project serves as an assessment phase before potentially engag
 
 ### Collaboration and Teamwork
 
-- Collaboration: Must be willing to work closely with our in-house team, other freelancers, or stakeholders, as necessary.
+You will be working independently on this project. However, one of our senior developers will closely review all code you submit and will be available to answer your questions.
+If necessary, you must be willing to work closely with our in-house team members or other freelancers.
 
 ### Revision and Feedback
 
@@ -68,7 +69,7 @@ This low-priority project serves as an assessment phase before potentially engag
 
 ### Deadlines and Milestones
 
-- Project Deadlines and Milestones: Specific deadlines and milestones will be set to track the progress of the project. Failure to meet these interim dates may result in project reassessment or termination.
+- The deadline for this project is based on the time estimate you provide for completing the task, including testing and QA. Your estimated time will serve as your deadline. Additionally, the project manager assigned to you also has an estimated time frame for this project and will notify you if your estimate exceeds the time frame they have set. Failure to meet these interim dates may result in project reassessment or termination.
 
 ### Conflict Resolution
 
