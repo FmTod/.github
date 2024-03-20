@@ -17,11 +17,12 @@ Please read these guildelines thoroughly. These guidelines are non-negotiable an
 - Ensure tasks include adequate time for research, implementation, testing, documentation, etc.
 
 ## GitHub
-* Each bugfix or feature requires its own PR.
-* Base all PRs on the master/main branch by default.
-* Code must be pushed to GitHub at the end of each day, regardless of completeness.
-* Again, Code must be pushed to GitHub at the end of each day, regardless of completeness.
-* All commented or unused code must be removed before submitting a PR, with justification if necessary.
+
+- Each bugfix or feature requires its own PR.
+- Base all PRs on the master/main branch by default.
+- Code must be pushed to GitHub at the end of each day, regardless of completeness.
+- Again, Code must be pushed to GitHub at the end of each day, regardless of completeness.
+- All commented or unused code must be removed before submitting a PR, with justification if necessary.
 
 ## Coding
 
@@ -30,15 +31,18 @@ Please read these guildelines thoroughly. These guidelines are non-negotiable an
 - Emphasize code readability and maintainability through clear and descriptive comments.
 
 ## Tests
-* A new test must accompany each feature.
-* Ensure 100% coverage of class functionality.
-* Create missing tests for existing classes when working on bugfixes/changes.
-* Implement GitHub actions to run tests in both Windows and Linux environments.
+
+- A new test must accompany each feature.
+- Ensure 100% coverage of class functionality.
+- Create missing tests for existing classes when working on bugfixes/changes.
+- Implement GitHub actions to run tests in both Windows and Linux environments.
 
 ## Naming Conventions
-* Adhere strictly to existing naming conventions in ongoing projects.
-* Select and consistently apply a naming convention for new projects.
+
+- Adhere strictly to existing naming conventions in ongoing projects.
+- Select and consistently apply a naming convention for new projects.
 
 ## Laravel ([Read More](./PHP.md))
+
 - Prioritize Laravel's methodologies over vanilla PHP conventions for consistency and efficiency.
 - Steer clear of duplicating functionality that is readily available within the framework.

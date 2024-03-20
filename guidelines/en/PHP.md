@@ -53,9 +53,9 @@ public function scopeArchived(Builder $query): void
 ```
 
 ### try, catch
+
 Unless you can fix the problem which caused the exception, do not catch it, let it bubble up to a level where it can be dealt with.
 In most cases where the exception is predictable, it's possible to test ahead of time, for the condition that the exception handler will catch.
-
 
 ## Typed properties
 
@@ -254,7 +254,6 @@ if (! $goodCondition) {
 // do work
 ```
 
-
 ```php
 // Bad
 
@@ -326,11 +325,9 @@ $condition
     : $this->doSomethingElse();
 ```
 
-
 ### Compound ifs
 
 In general, separate `if` statements should be preferred over a compound condition. This makes debugging code easier.
-
 
 ```php
 // Good
@@ -486,7 +483,7 @@ if ($foo) {
 
 Configuration files must use kebab-case.
 
-```
+```txt
 config/
   pdf-generator.php
 ```
@@ -537,6 +534,8 @@ return [
     ],  
 ]
 ```
+
+---
 
 # Laravel
 
@@ -591,7 +590,7 @@ public function handle()
 
 Public-facing urls must use kebab-case.
 
-```
+```txt
 https://laravel.test/open-source
 https://laravel.test/jobs/front-end-developer
 ```
@@ -649,7 +648,7 @@ Route::get('/open-source', [OpenSourceController::class, 'index']);
 ## Controllers
 
 Avoid fat controllers and write frequent queries in model.
-Put all DB related logic into Eloquent models or into Services (located at: app/Custom) classes if 
+Put all DB related logic into Eloquent models or into Services (located at: app/Custom) classes if
 you’re using Query Builder or raw SQL queries.
 
 Controllers that control a resource must use the singular resource name.
@@ -739,9 +738,11 @@ class productItems extends Model
 ```
 
 ### Single relations
+
 Method name must be in singular form and should use camelCase
 
 ### Many relations
+
 Method name must be in plural form and should use camelCase
 
 ### Eager loads
@@ -767,10 +768,11 @@ $users = User::with('profile')->get();
 ```
 
 ### Request data
+
 All request data must be validated either manually or using the validator
 
-
 ### Mass assignment
+
 ```php
 // Good
 $category->article()->create($request->validated());
@@ -788,7 +790,7 @@ $article->save();
 
 View files must use kebab-case.
 
-```
+```txt
 resources/
   views/
     open-source.blade.php
@@ -914,10 +916,11 @@ Again to avoid naming collisions we'll suffix mailables with `Mail`, as they're 
 e.g. `AccountActivatedMail` or `NewEventMail`
 
 ## Tools
-Prefer to use built-in Laravel functionality and community packages instead of using 
-3rd party packages and tools. Any developer who will work with your app in the future will 
-need to learn new tools. Also, chances to get help from the Laravel community are 
-significantly lower when you’re using a 3rd party package or tool. Do not make your 
+
+Prefer to use built-in Laravel functionality and community packages instead of using
+3rd party packages and tools. Any developer who will work with your app in the future will
+need to learn new tools. Also, chances to get help from the Laravel community are
+significantly lower when you’re using a 3rd party package or tool. Do not make your
 client pay for that.
 
 | Task                      | Standard tools                         | 3rd party tools                                         |
@@ -941,4 +944,3 @@ client pay for that.
 | Generating testing data   | Seeder classes, Model Factories, Faker | Creating testing data manually                          |
 | Task scheduling           | Laravel Task Scheduler                 | Scripts and 3rd party packages                          |
 | DB                        | MySQL, PostgreSQL, SQLite, SQL Server  | MongoDB                                                 |
-

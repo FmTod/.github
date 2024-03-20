@@ -1,6 +1,9 @@
-### *** DO NOT USE JQUERY ***
 
-## Javascript
+# Javascript
+
+## **DO NOT USE JQUERY**
+
+## Code Style
 
 [Prettier](https://prettier.io) determines our code style. While Prettier's output isn't always the prettiest, it's consistent and removes all (meaningless) discussion about code style.
 

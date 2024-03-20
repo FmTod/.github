@@ -2,9 +2,9 @@ Before you start, please make sure to go over the guidelines and docs below
 
 # Guidelines
 
-* [General](./guidelines/GENERAL.md)
-* [PHP](./guidelines/PHP.md)
-* [Javascript](./guidelines/JAVASCRIPT.md)
+* [General](./guidelines/en/GENERAL.md)
+* [PHP](./guidelines/en/PHP.md)
+* [Javascript](./guidelines/en/JAVASCRIPT.md)
 
 # Freelancers
 
