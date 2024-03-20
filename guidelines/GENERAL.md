@@ -1,19 +1,44 @@
-# General
+# STRICT GUIDELINES
 
-### Dead Code / Commented Code
-Before submitting a PR make sure all the commented or unused code/class is removed or state on the comment why it must not be removed.
+Please read these guildelines thoroughly. These guidelines are non-negotiable and must be adhered to without exception.
+
+## Communication (Slack)
+
+- Submit daily progress reports promptly at the beginning and end of each day.
+- Immediate notification of any blockers or challenges is mandatory.
+  - Our team is available to assist, ensuring swift resolution (We work as team).
+- Proactively communicate any delays in milestone deadlines.
+  - Failure to do so will not be tolerated.
+
+## Task Management (Asana)
+
+- All projects must be meticulously broken down into smaller tasks/subtasks.
+  - Specify estimated completion times for every task.
+- Ensure tasks include adequate time for research, implementation, testing, documentation, etc.
 
 ## GitHub
-* Create one PR per bugfix or feature
-* Base all PRs on the master branch unless stated otherwise
-* Push your code to GitHub at least daily (even if incomplete)
+* Each bugfix or feature requires its own PR.
+* Base all PRs on the master/main branch by default.
+* Code must be pushed to GitHub at the end of each day, regardless of completeness.
+* Again, Code must be pushed to GitHub at the end of each day, regardless of completeness.
+* All commented or unused code must be removed before submitting a PR, with justification if necessary.
+
+## Coding
+
+- Follow a consistent coding style throughout the project for uniformity.
+- Prioritize code efficiency and optimization to enhance performance.
+- Emphasize code readability and maintainability through clear and descriptive comments.
 
 ## Tests
-* Create a new test for each feature
-* Make sure to cover 100% of the class functionality
-* When working on bugfixes/changes create missing tests for existing classes
-* Create GitHub action to run test in windows and linux environments
+* A new test must accompany each feature.
+* Ensure 100% coverage of class functionality.
+* Create missing tests for existing classes when working on bugfixes/changes.
+* Implement GitHub actions to run tests in both Windows and Linux environments.
 
 ## Naming Conventions
-* If working on an existing project stick to the naming convention used throughout the app
-* When creating new projects pick one naming convention and stick to it
+* Adhere strictly to existing naming conventions in ongoing projects.
+* Select and consistently apply a naming convention for new projects.
+
+## Laravel ([Read More](./PHP.md))
+- Prioritize Laravel's methodologies over vanilla PHP conventions for consistency and efficiency.
+- Steer clear of duplicating functionality that is readily available within the framework.
