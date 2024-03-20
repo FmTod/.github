@@ -4,9 +4,9 @@
 
 ## Guidelines
 
-* [General](./guidelines/en/GENERAL.md)
-* [PHP](./guidelines/en/PHP.md)
-* [Javascript](./guidelines/en/JAVASCRIPT.md)
+* [General](../guidelines/en/GENERAL.md)
+* [PHP](../guidelines/en/PHP.md)
+* [Javascript](../guidelines/en/JAVASCRIPT.md)
 
 ## Freelancers
 

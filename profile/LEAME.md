@@ -4,9 +4,9 @@
 
 ## Directrices
 
-* [General](./guidelines/es/GENERAL.md)
-* [PHP](./guidelines/es/PHP.md)
-* [Javascript](./guidelines/es/JAVASCRIPT.md)
+* [General](../guidelines/es/GENERAL.md)
+* [PHP](../guidelines/es/PHP.md)
+* [Javascript](../guidelines/es/JAVASCRIPT.md)
 
 ## Herramientas Recomendadas
 
