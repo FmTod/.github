@@ -6,7 +6,7 @@ Before submitting a PR make sure all the commented or unused code/class is remov
 ## GitHub
 * Create one PR per bugfix or feature
 * Base all PRs on the master branch unless stated otherwise
-* Try pushing your code to GitHub at least daily
+* Push your code to GitHub at least daily (even if incomplete)
 
 ## Tests
 * Create a new test for each feature
