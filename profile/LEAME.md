@@ -1,4 +1,4 @@
-<p align="center"><a href="./README.md">English / Ingles</a></p>
+<p align="center"><a href="./profile/README.md">English / Ingles</a></p>
 
 <p align="center">Antes de empezar, asegurate de revisar nuestras directrices.</p>
 

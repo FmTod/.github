@@ -1,4 +1,4 @@
-<p align="center"><a href="./LEAME.md">Spanish / Español</a></p>
+<p align="center"><a href="./profile/LEAME.md">Spanish / Español</a></p>
 
 <p align="center">Before you start, please make sure to go over the guidelines and docs below</p>
 
