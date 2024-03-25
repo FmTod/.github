@@ -1,12 +1,12 @@
-<p align="center"><a href="./profile/LEAME.md">Spanish / Español</a></p>
+<p align="center"><a href="/profile/README.es.md">Spanish / Español</a></p>
 
 <p align="center">Before you start, please make sure to go over the guidelines and docs below</p>
 
 ## Guidelines
 
-* [General](../guidelines/en/GENERAL.md)
-* [PHP](../guidelines/en/PHP.md)
-* [Javascript](../guidelines/en/JAVASCRIPT.md)
+* [General](/guidelines/GENERAL.md)
+* [PHP](/guidelines/PHP.md)
+* [Javascript](/guidelines/JAVASCRIPT.md)
 
 ## Freelancers
 

@@ -1,12 +1,12 @@
-<p align="center"><a href="./profile/README.md">English / Ingles</a></p>
+<p align="center"><a href="/profile/README.md">English / Ingles</a></p>
 
 <p align="center">Antes de empezar, asegurate de revisar nuestras directrices.</p>
 
 ## Directrices
 
-* [General](../guidelines/es/GENERAL.md)
-* [PHP](../guidelines/es/PHP.md)
-* [Javascript](../guidelines/es/JAVASCRIPT.md)
+* [General](/guidelines/GENERAL.md)
+* [PHP](/guidelines/PHP.md)
+* [Javascript](/guidelines/JAVASCRIPT.md)
 
 ## Herramientas Recomendadas
 
