@@ -30,6 +30,11 @@ Please read these guildelines thoroughly. These guidelines are non-negotiable an
 - Prioritize code efficiency and optimization to enhance performance.
 - Emphasize code readability and maintainability through clear and descriptive comments.
 
+## Validation
+
+- Most of the user input must be validated.
+- Validation needs to be done in the backend and mirrored to the frontend using [Laravel Precognition](https://laravel.com/docs/11.x/precognition).
+
 ## Tests
 
 - A new test must accompany each feature.
