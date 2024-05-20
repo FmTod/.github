@@ -30,6 +30,11 @@ Por favor, lee estas directrices detenidamente. Estas directrices son innegociab
 - Priorizar la eficiencia y optimización del código para mejorar el rendimiento.
 - Enfatizar la legibilidad y mantenibilidad del código a través de comentarios claros y descriptivos.
 
+## Validación
+
+- La mayoría de las entradas del usuario deben ser validadas.
+- La validación debe realizarse en el backend y reflejarse en el frontend utilizando Laravel Precognition.
+
 ## Pruebas
 
 - Un nuevo test debe acompañar a cada característica.
