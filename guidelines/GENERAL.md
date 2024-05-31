@@ -34,6 +34,7 @@ Please read these guildelines thoroughly. These guidelines are non-negotiable an
 
 - Most of the user input must be validated.
 - Validation needs to be done in the backend and mirrored to the frontend using [Laravel Precognition](https://laravel.com/docs/11.x/precognition).
+- Custom validation rules should follow the structure outlined in the [Laravel documentation](https://laravel.com/docs/validation#custom-validation-rules)
 
 ## Tests
 
@@ -41,6 +42,9 @@ Please read these guildelines thoroughly. These guidelines are non-negotiable an
 - Ensure 100% coverage of class functionality.
 - Create missing tests for existing classes when working on bugfixes/changes.
 - Implement GitHub actions to run tests in both Windows and Linux environments.
+
+## Documentation
+
 
 ## Naming Conventions
 
