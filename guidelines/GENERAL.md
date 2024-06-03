@@ -44,7 +44,9 @@ Please read these guildelines thoroughly. These guidelines are non-negotiable an
 - Implement GitHub actions to run tests in both Windows and Linux environments.
 
 ## Documentation
-
+- Provide comprehensive documentation for each new implementation or code addition.
+- Ensure all documentation is written in Markdown format.
+- Include a diagram illustrating the overall flow of the added functionality, covering both backend and frontend aspects.
 
 ## Naming Conventions
 
