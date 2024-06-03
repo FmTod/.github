@@ -32,8 +32,10 @@ Por favor, lee estas directrices detenidamente. Estas directrices son innegociab
 
 ## Validación
 
-- La mayoría de las entradas del usuario deben ser validadas.
-- La validación debe realizarse en el backend y reflejarse en el frontend utilizando Laravel Precognition.
+- La mayoría de las entradas de usuario deben ser validadas.
+- La validación debe realizarse en el backend y reflejarse en el frontend utilizando [Laravel Precognition](https://laravel.com/docs/11.x/precognition).
+- Las reglas de validación personalizadas deben seguir la estructura descrita en la [documentación de Laravel](https://laravel.com/docs/validation#custom-validation-rules).
+
 
 ## Pruebas
 
@@ -41,6 +43,11 @@ Por favor, lee estas directrices detenidamente. Estas directrices son innegociab
 - Asegurar el 100% de cobertura de la funcionalidad de la clase.
 - Crear pruebas faltantes para clases existentes al trabajar en correcciones de errores/cambios.
 - Implementar acciones de GitHub para ejecutar pruebas en entornos Windows y Linux.
+
+## Documentación
+- Proveer documentación completa para cada nueva implementación o adición de código.
+- Asegurarse de que toda la documentación esté escrita en formato Markdown.
+- Incluir un diagrama que ilustre el flujo general de la funcionalidad añadida, abarcando tanto los aspectos del backend como del frontend.
 
 ## Convenciones de nomenclatura
 
