@@ -7,6 +7,7 @@
 * [General](/guidelines/GENERAL.md)
 * [PHP](/guidelines/PHP.md)
 * [Javascript](/guidelines/JAVASCRIPT.md)
+* [Documentation](/guidelines/DOCUMENTATION.md)
 
 ## Freelancers
 
