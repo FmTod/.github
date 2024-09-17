@@ -1,5 +1,9 @@
 # Documentation Writing Guidelines
 
+## Uploading
+
+Documentation needs to be commited to the `developer/modules` dir in the docs repo unless it's for global feature available throughout the app
+
 ## Introduction
 
 - **Overview**: Provide a brief description of the package or feature, highlighting its purpose and key benefits.
