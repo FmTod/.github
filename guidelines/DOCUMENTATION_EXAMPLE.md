@@ -1,8 +1,10 @@
 # Documentation Writing Guidelines
 
+Only use the sections that are applicable to the feature, package, or logic you are documenting. Delete the explanation inside the bracket when you are done
+
 ## Introduction
 
-### Overview
+### Overview 
 
 Provide a brief description of the package or feature, highlighting its purpose and key benefits.
 
