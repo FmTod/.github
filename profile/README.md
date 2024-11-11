@@ -4,14 +4,14 @@
 
 ## Guidelines
 
-* [General](https://github.com/FmTod/.github/guidelines/GENERAL.md)
-* [PHP](https://github.com/FmTod/.github/guidelines/PHP.md)
-* [Javascript](https://github.com/FmTod/.github/guidelines/JAVASCRIPT.md)
-* [Documentation](https://github.com/FmTod/.github/guidelines/DOCUMENTATION.md)
+* [General](https://github.com/FmTod/.github/blob/master/guidelines/GENERAL.md)
+* [PHP](https://github.com/FmTod/.github/blob/master/guidelines/PHP.md)
+* [Javascript](https://github.com/FmTod/.github/blob/master/guidelines/JAVASCRIPT.md)
+* [Documentation](https://github.com/FmTod/.github/blob/master/guidelines/DOCUMENTATION.md)
 
 ## Freelancers
 
-* [Terms & Conditions](https://github.com/FmTod/.github/freelancers/README.md)
+* [Terms & Conditions](https://github.com/FmTod/.github/blob/master/guidelines/freelancers/README.md)
 
 ## Commonly Used
 
