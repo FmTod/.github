@@ -40,7 +40,7 @@ Por favor, lee estas directrices detenidamente. Estas directrices son innegociab
 ## Pruebas
 
 - Un nuevo test debe acompañar a cada característica.
-- Asegurar el 100% de cobertura de la funcionalidad de la clase.
+- Asegurar el 100% de cobertura de la funcionalidad de la clase. (https://github.com/FmTod2/pestphp-docker)
 - Crear pruebas faltantes para clases existentes al trabajar en correcciones de errores/cambios.
 - Implementar acciones de GitHub para ejecutar pruebas en entornos Windows y Linux.
 
