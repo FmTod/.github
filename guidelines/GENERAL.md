@@ -39,7 +39,7 @@ Please read these guildelines thoroughly. These guidelines are non-negotiable an
 ## Tests
 
 - A new test must accompany each feature.
-- Ensure 100% coverage of class functionality.
+- Ensure 100% coverage of class functionality. (https://github.com/FmTod2/pestphp-docker)
 - Create missing tests for existing classes when working on bugfixes/changes.
 - Implement GitHub actions to run tests in both Windows and Linux environments.
 
